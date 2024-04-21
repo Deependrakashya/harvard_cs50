@@ -1,2 +1,2 @@
 # harvard_cs50
-harvard university cs50 lelctures
+harvard university cs50 lectures
